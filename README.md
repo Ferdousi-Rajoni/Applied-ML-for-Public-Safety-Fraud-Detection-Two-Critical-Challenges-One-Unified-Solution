@@ -1,0 +1,2 @@
+# Applied-ML-for-Public-Safety-Fraud-Detection-Two-Critical-Challenges-One-Unified-Solution
+Predictive analytics offers transformative solutions for public safety and financial risk management by leveraging large-scale data to forecast critical events and detect anomalies. This project, titled "Predictive Analytics for Public Safety: Forecasting Accident Severity and Detecting Insurance Fraud," addresses two interconnected challenges:.
